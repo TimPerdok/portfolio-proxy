@@ -1,0 +1,15 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+      "outDir": "dist",
+      "allowJs": true,
+      "target": "ES5",
+      "baseUrl": "./src",
+      "moduleResolution": "node",
+      "module": "commonjs",
+      "esModuleInterop": true
+  },
+      "include": [
+      "./src/**/*"
+  ],
+}
